@@ -10,7 +10,7 @@ body {
 
 /* De header met het logo rechtsboven */
 header {
-    background-color: #4CAF50;
+    background-color: #bdd94c;
     color: white;
     padding: 20px;
     position: relative;  /* Zorg ervoor dat het logo relatief gepositioneerd wordt in de header */
