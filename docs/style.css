@@ -10,22 +10,29 @@ body {
 
 /* De header met het logo rechtsboven */
 header {
-    background-color: #bdd94c;
+    background-color: #4CAF50;
     color: white;
-    padding: 20px;
+    padding: 40px 20px 20px 20px; /* Voeg extra padding bovenin toe om ruimte te maken voor het logo */
     position: relative;  /* Zorg ervoor dat het logo relatief gepositioneerd wordt in de header */
+    text-align: center; /* Zorg ervoor dat de tekst in het midden van de header blijft */
 }
 
+/* Het logo rechtsboven */
 header .logo {
-    position: absolute;  /* Zorg ervoor dat het logo absoluut gepositioneerd wordt in de header */
-    top: 10px;
-    right: 60px;  /* Plaats het logo rechtsboven in de header */
+    position: absolute;  /* Het logo krijgt een absolute positie binnen de header */
+    top: 10px;  /* Plaats het logo een beetje van de bovenkant */
+    right: 20px;  /* Plaats het logo rechts, een beetje van de rand af */
+    width: 100px;  /* Stel de grootte van het logo in (je kunt dit aanpassen naar wens) */
+    height: auto;  /* Zorg ervoor dat de verhoudingen van het logo behouden blijven */
 }
 
+/* Stijl voor de titel en tekst in de header */
 h1 {
-    margin-top: 0;  /* Verwijder eventuele marge boven de titel */
+    margin-top: 0;  /* Verwijder de marge boven de titel */
+    font-size: 2em;  /* Pas de grootte van de titel aan als dat nodig is */
 }
 
+/* Sectie styling */
 section {
     margin: 20px auto;
     padding: 20px;
@@ -35,6 +42,7 @@ section {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* Link styling */
 a {
     color: #4CAF50;
     text-decoration: none;
