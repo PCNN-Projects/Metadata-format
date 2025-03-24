@@ -1,26 +1,29 @@
-/* Algemene stijlen */
+/* Algemene body instellingen */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
-    text-align: center;
+    background-color: #f4f4f4;  /* Achtergrondkleur */
+    color: #333;  /* Tekstkleur */
+    text-align: center;  /* Tekst gecentreerd */
 }
 
+/* De header met het logo rechtsboven */
 header {
     background-color: #4CAF50;
     color: white;
     padding: 20px;
-    position: relative; /* Dit is belangrijk voor de positionering van het logo */
+    position: relative;  /* Zorg ervoor dat het logo relatief gepositioneerd wordt in de header */
 }
 
-/* Logo in de header rechts bovenaan */
-header img.logo {
-    width: 150px; /* Pas de grootte van je logo aan */
-    position: absolute; /* Hiermee kun je het logo positioneren */
-    top: 20px; /* Ruimte van de bovenkant van de pagina */
-    right: 20px; /* Ruimte van de rechterkant van de pagina */
+header .logo {
+    position: absolute;  /* Zorg ervoor dat het logo absoluut gepositioneerd wordt in de header */
+    top: 10px;
+    right: 20px;  /* Plaats het logo rechtsboven in de header */
+}
+
+h1 {
+    margin-top: 0;  /* Verwijder eventuele marge boven de titel */
 }
 
 section {
@@ -29,7 +32,7 @@ section {
     max-width: 800px;
     background: white;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 a {
@@ -40,13 +43,4 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
