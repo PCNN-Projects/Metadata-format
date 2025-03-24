@@ -19,7 +19,7 @@ header {
 header .logo {
     position: absolute;  /* Zorg ervoor dat het logo absoluut gepositioneerd wordt in de header */
     top: 10px;
-    right: 50px;  /* Plaats het logo rechtsboven in de header */
+    right: 100px;  /* Plaats het logo rechtsboven in de header */
 }
 
 h1 {
