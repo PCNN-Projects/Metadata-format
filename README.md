@@ -42,30 +42,20 @@ This metadata template was designed to collect metadata from post-COVID studies 
 
 ## 💡 Notes
 
-- A number of variables and FAIR ontology mappings are currently under internal and external review. These elements will be gradually refined and expanded in subsequent releases, based on expert input and consortium-wide feedback.
-- Future updates will include the addition of new instruments such as **Beighton Score** and **FUNCAP-27**, as well as expanded support for structured metadata.
+- Although the metadata template is complete, some minor changes can be made to better document specific metadata. 
 
 ---
 
 ##  Contact
 
-For questions, feedback, or collaboration opportunities, please reach out to the PCNN codebook team:
+For questions, feedback, or collaboration opportunities, please reach out to:
 
-**Dr. Hajar Hasannejadasl**  
-Clinical Data Scientist  
-Maastricht University Medical Center (MUMC+)  
-📧 hajar.hasannejadasl@mumc.nl
-📧 hajar.hasannejad@gmail.com
+**Dana Rouland**  
+Junior Researcher
+Dept. of Primary anc Community Care
+Radboud University Medical Center (RadboudUMC)
+📧 dana.rouland@radboudumc.nl 
 
-**Shuxin Zhang**  
-PhD Candidate & FAIR Data Steward  
- Amsterdam UMC  
-📧 s.x.zhang@amsterdamumc.nl
-
-**Dr. B.M. Boxma-de Klerk**  
-Assistant Professor, Department of Clinical Epidemiology  
-Leiden University Medical Center, Leiden, The Netherlands  
-📧 b.m.boxma-de_klerk@lumc.nl
 
 ---
 
@@ -77,4 +67,4 @@ This means others are free to copy, distribute, and adapt the work for non-comme
 🔗 [View full license terms](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
-##  Last updated: March 2025
+##  Last updated: April 2025
