@@ -28,15 +28,15 @@ This metadata template was designed to collect metadata from post-COVID studies 
 | Publication | Important publications about study |
 | Study contact information | study contact information of the study |
 | Data access | Tab about if/how data can be accessed by new researchers |
-| Study characteristics | Ontology-aligned term |
-| Variable coding label | Suggested short label |
-| Variable label - NL | Dutch label/question |
-| Variable label - EN | English label/question |
-| Value labels - NL | Dutch answer options |
-| Value labels - EN | English answer options |
-| Value coding | Numeric or categorical codes |
-| Value label - FAIR | FAIR-aligned answer option |
-| Source | Data origin (e.g., Portal, Biobank, Trials, Clinics) |
+| Study characteristics | Tab about specific study characteristics |
+| COVID-19 and post-COVID data | Tab about which COVID-19 and post-COVID data have been collected |
+| Inclusion and exclusion | Inclusion and exclusion criteria |
+| Number of participants | Tab about what kind of participants and how many have been included |
+| Clinical information | Tab about demographics and clinical information |
+| Outcome measures | Tab about which outcome measures have been measured |
+| Questionnaires | Tab about which questionnaires have been used |
+| Physical examination | Tab about what kind of physical examination has been performed |
+| Laboratory tests | Tab about what kind of laboratory tests have been performed |
 
 ---
 
