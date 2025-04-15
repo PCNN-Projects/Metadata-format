@@ -3,14 +3,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #28cef3;  /* Achtergrondkleur */
+    background-color: #f4f4f4;  /* Achtergrondkleur */
     color: #333;  /* Tekstkleur */
     text-align: center;  /* Tekst gecentreerd */
 }
 
 /* De header met het logo rechtsboven */
 header {
-    background-color: #28cef3;
+    background-color: #f4f4f4;
     color: white;
     padding: 40px 20px 20px 20px; /* Voeg extra padding bovenin toe om ruimte te maken voor het logo */
     position: relative;  /* Zorg ervoor dat het logo relatief gepositioneerd wordt in de header */
