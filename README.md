@@ -1,4 +1,4 @@
-# Metadata-Dictionary
+# Metadata-template
 
 This repository contains the metadata template developed for the Post-COVID Netwerk Nederland (PCNN) research consortium. This structured template can be used to collect metadata from post-COVID cohort studies and has been used to do so for Dutch cohort studies as part of the PCNN. The metadata file includes key information on study design, participants, outcomes, and methods of measurement. The goal is to create an online metadata dictionary, providing valuable insights into the long-term effects of COVID-19.
 
@@ -6,31 +6,29 @@ This repository contains the metadata template developed for the Post-COVID Netw
 
 ## Repository Structure
 
-- `codebook.xlsx` – Main file containing all variables, themes, labels, ontology mappings, and value codings.
-- `themes_and_subdomains.md` – A categorized list of all Themes and Subdomains used in the codebook.
-- `instruments_overview.md` – Summary of all validated instruments and questionnaires represented in the codebook.
+Within the 'docs' file, the 'Metadata bestand.xlsx' containts the template that can be used for post-COVID studies. 
 
 ---
 
 ## Purpose
 
-This codebook was designed to:
-- Enable standardized data harmonization across studies.
-- Facilitate ontology-based mapping (e.g., SNOMED CT, LOINC, NCIT).
-- Help researchers explore, select, and reuse variables relevant to their analyses.
+This metadata template was designed to collect metadata from post-COVID studies in a standardized manner, and thus support harmonization. The purpose of the metadata dictionary is to:
+- Map ongoing and completed post-COVID cohort studies in the Netherlands. 
+- Facilitate collaboration, by making it easier for researchers to identify overlaps and gaps in research.
+- Promote data reuse.
 
 ---
 
-##  Columns in `codebook.xlsx`
+##  Tabs in `Metadata bestand.xlsx`
 
-| Column | Description |
+| Tab | Description |
 |--------|-------------|
-| Theme | High-level domain (e.g., General Health, Symptoms) |
-| Subdomain | Specific topic within the theme |
-| Instrument | Questionnaire/tool used to collect the variable |
-| Instrument version | Version info where applicable |
-| Variable name DRE | Standardized internal name |
-| Variable name - FAIR | Ontology-aligned term |
+| Instructions | Instructions on how to fill in the template |
+| Post-COVID network contacts | Whom to contact about the metadata template |
+| Publication | Important publications about study |
+| Study contact information | study contact information of the study |
+| Data access | Tab about if/how data can be accessed by new researchers |
+| Study characteristics | Ontology-aligned term |
 | Variable coding label | Suggested short label |
 | Variable label - NL | Dutch label/question |
 | Variable label - EN | English label/question |
