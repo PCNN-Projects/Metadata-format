@@ -4,12 +4,6 @@ This repository contains the metadata template developed for the Post-COVID Netw
 
 ---
 
-## Repository Structure
-
-Within the 'docs' file, the 'Metadata bestand.xlsx' containts the template that can be used for post-COVID studies. 
-
----
-
 ## Purpose
 
 This metadata template was designed to collect metadata from post-COVID studies in a standardized manner, and thus support harmonization. The purpose of the metadata dictionary is to:
