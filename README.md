@@ -44,11 +44,10 @@ This metadata template was designed to collect metadata from post-COVID studies 
 
 For questions, feedback, or collaboration opportunities, please reach out to:
 
-**Dana Rouland**  
-Junior Researcher
-Dept. of Primary anc Community Care
+**Tim olde Hartman**  
+Head Unit Research of the department of Primary and Community Care 
 Radboud University Medical Center (RadboudUMC)
-📧 dana.rouland@radboudumc.nl 
+📧 Tim.OldeHartman@radboudumc.nl
 
 
 ---
